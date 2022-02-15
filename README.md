@@ -1,5 +1,7 @@
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/NCAR/cesm-lens-aws/deploy-site/main?logo=github&style=for-the-badge)
 
+[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/https://github.com/NCAR/cesm-lens-aws/blob/main/notebooks/kay-et-al-2015.v3.ipynb
+
 # CESM LENS on AWS
 
 - [CESM LENS on AWS](#cesm-lens-on-aws)
