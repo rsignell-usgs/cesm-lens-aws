@@ -14,7 +14,7 @@ Examples of analysis of [CESM LENS data](https://registry.opendata.aws/ncar-cesm
 
 ## Re-create notebooks with AWS Sagemaker Studio Lab
 
-[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/https://github.com/NCAR/cesm-lens-aws/blob/main/notebooks/kay-et-al-2015.v3.ipynb)
+[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/https://github.com/rsignell-usgs/cesm-lens-aws/blob/main/notebooks/kay-et-al-2015.v3.ipynb)
 
 
 ## Re-create notebooks with Pangeo Binder
